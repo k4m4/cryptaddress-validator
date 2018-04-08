@@ -1,6 +1,6 @@
 # cryptaddress-validator [![Build Status](https://travis-ci.org/k4m4/cryptaddress-validator.svg?branch=master)](https://travis-ci.org/k4m4/cryptaddress-validator)
 
-> Validate cryptocurrency addresses.
+> Validate Bitcoin, Ethereum, Litecoin & other popular cryptocurrency addresses.
 
 
 ## Install
