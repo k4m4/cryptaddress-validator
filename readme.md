@@ -60,7 +60,7 @@ Cryptocurrency to build the appropriate validation regex.
 ## Related
 
 - [cryptocurrency-address-detector](https://github.com/k4m4/cryptocurrency-address-detector) - Detect which cryptocurrency an address corresponds to.
-- [cryptaddress.now](https://github.com/k4m4/cryptaddress.now) - Minimal service to detect what cryptocurrency an address corresponds to. 
+- [cryptaddress.now](https://github.com/k4m4/cryptaddress.now) - Minimal service to detect which cryptocurrency an address corresponds to. 
 
 
 ## License
