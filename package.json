@@ -27,6 +27,6 @@
     "index.js"
   ],
   "devDependencies": {
-    "ava": "*"
+    "ava": "^1.2.1"
   }
 }
