@@ -10,7 +10,7 @@
     "email": "nikolaskam@gmail.com"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
     "index.js"
   ],
   "devDependencies": {
-    "ava": "^1.2.1"
+    "ava": "^1.4.1"
   }
 }
