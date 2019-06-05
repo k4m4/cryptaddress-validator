@@ -1,6 +1,6 @@
 {
   "name": "cryptaddress-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Validate Bitcoin, Ethereum, Litecoin & other popular cryptocurrency addresses.",
   "license": "MIT",
   "repository": "k4m4/cryptaddress-validator",
