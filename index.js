@@ -2,7 +2,7 @@
 
 const cryptoRegExps = {
 	"btc": "[13][a-km-zA-HJ-NP-Z1-9]{25,34}",
-	"bch": "[13][a-km-zA-HJ-NP-Z1-9]{33}",
+	"bch": "((bitcoincash|bchreg|bchtest):)?(q|p)[a-z0-9]{41}",
 	"eth": "0x[a-fA-F0-9]{40}",
 	"ltc": "[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}",
 	"doge": "D{1}[5-9A-HJ-NP-U]{1}[1-9A-HJ-NP-Za-km-z]{32}",

@@ -47,7 +47,8 @@ Cryptocurrency to build the appropriate validation regex.
 
 ## Supported Cryptocurrencies
 
-- [`Bitcoin/BTC`](https://github.com/kevva/bitcoin-regex) & [`Bitcoin Cash/BCH`](https://github.com/k4m4/bitcoincash-regex)
+- [`Bitcoin/BTC`](https://github.com/kevva/bitcoin-regex)
+- [`Bitcoin Cash/BCH` (CashAddr addresses)](https://github.com/k4m4/bitcoincash-regex)
 - [`Ethereum/ETH`](https://github.com/k4m4/ethereum-regex)
 - [`Litecoin/LTC`](https://github.com/k4m4/litecoin-regex)
 - [`Monero/XMR`](https://github.com/k4m4/monero-regex)
