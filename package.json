@@ -9,6 +9,9 @@
     "url": "https://nikolaskama.me",
     "email": "nikolaskam@gmail.com"
   },
+  "ava": {
+    "babel": true
+  },
   "engines": {
     "node": ">=6"
   },
@@ -27,6 +30,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "ava": "^1.4.1"
+    "@ava/babel": "^1.0.1",
+    "ava": "^3.5.2"
   }
 }
